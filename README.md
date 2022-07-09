@@ -2,7 +2,7 @@
 
 A movies flutter app using the API from https://www.themoviedb.org/ </br>
 
-API used: Popular, Top Rated, Upcoming, Search Moviesv </br>
+API used: Popular, Top Rated, Upcoming, Search Movies </br>
 
 Packages used: </br>
 dio </br>
